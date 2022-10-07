@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "DukeCharming";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/assets/fonts/DukeCharming.ttf");
+}
+
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/assets/fonts/Poppins-Regular.ttf");
+}
